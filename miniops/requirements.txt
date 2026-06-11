@@ -1,0 +1,7 @@
+fastapi
+uvicorn[standard]
+requests
+docker
+ansible
+ansible-runner
+python-dotenv
